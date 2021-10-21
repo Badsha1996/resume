@@ -1,0 +1,10 @@
+// This will be used in every file globally 
+$mainColor    : #00194A;
+
+$width        : 768px;
+
+@mixin mobile {
+    @media (max-width: #{$width}){
+        @content
+    }
+}
