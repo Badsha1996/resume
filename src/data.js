@@ -10,6 +10,13 @@ export const featuredResume = [{
         img   : "assets/sort.jpg",
         url   : "https://badsha1996.github.io/Sorting_visualizer/",
     },
+    {
+        id    : 3,
+        title : "Portfolio",
+        img   : "assets/port.jpg",
+        url   : "https://badsha1996.github.io/resume/",
+    },
+
  ];
 export const webResume = [{
         id    : 1,
@@ -20,13 +27,13 @@ export const webResume = [{
     {
         id    : 2,
         title : "Django website",
-        img   : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fliwaiwai.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fdjango-python.jpg&f=1&nofb=1",
+        img   : "assets/django.jpg",
         url   : "https://github.com/Badsha1996/Article-Website",
     },
     {
         id    : 3,
         title : "React Chatbot",
-        img   : "https://cdn.dribbble.com/users/3226680/screenshots/10443745/media/e2050811d93aedb37737824f76e4d7aa.png?compress=1&resize=800x600",
+        img   : "assets/chatbot.jpeg",
         url   : "https://github.com/Badsha1996",
     },
     {
@@ -39,20 +46,26 @@ export const webResume = [{
 export const mlResume = [{
         id    : 1,
         title : "AI Painting Software",
-        img   : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffarmingtonlibraries.librarymarket.com%2Fsites%2Fdefault%2Ffiles%2F2020-12%2FVirtual%2520Paint%2520Along%2520(1).png&f=1&nofb=1",
+        img   : "assets/ai.jpg",
         url   : "https://github.com/Badsha1996/virtual_painter",
     },
     {
         id    : 2,
         title : "Invisible Clothes",
-        img   : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn141.picsart.com%2F259469934017202.jpg&f=1&nofb=1",
+        img   : "assets/ai.jpg",
         url   : "https://github.com/Badsha1996/Invisible_man",
     },
     {
         id    : 3,
         title : "Chatbot with voice",
-        img   : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fherobot.app%2Fwp-content%2Fuploads%2F2020%2F10%2F339.jpg&f=1&nofb=1",
+        img   : "assets/in.jpg",
         url   : "https://github.com/Badsha1996/ChatBot-Noni-version-1.0",
+    },
+    {
+        id    : 4,
+        title : "Morse Code Converter",
+        img   : "assets/morse.jpg",
+        url   : "https://github.com/Badsha1996/Morse_code_converter",
     },
 ];
 export const certificateResume = [{
