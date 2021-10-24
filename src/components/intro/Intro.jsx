@@ -15,7 +15,7 @@ export default function Intro() {
         <div className                                  = 'intro' id="intro">
             <div className                              = "left">
                 <div className                          = "imgContainer">
-                    <img src                            = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.clipartbest.com%2Fcliparts%2F9i4%2Fpxo%2F9i4pxo5AT.gif&f=1&nofb=1" alt="" />
+                    <img src                            = 'assets/me.jpg' alt="" />
                 </div>
             </div>
             <div className                              = "right">
